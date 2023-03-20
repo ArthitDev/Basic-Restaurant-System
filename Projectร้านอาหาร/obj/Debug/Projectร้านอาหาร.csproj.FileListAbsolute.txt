@@ -1,0 +1,148 @@
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe.config
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.pdb
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.pdb
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.customer.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.CustomerType.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Employee.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeType.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.OrderTable.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Table.resources
+C:\Users\Lenovo\source\repos\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.TableType.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.AssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.customer.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Employee.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeStatusUpdate.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeType.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Food.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.FoodType.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.MainMenu.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Order.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Table.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.exe
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.pdb
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe.config
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.pdb
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe.config
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.pdb
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.customer.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Employee.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeStatusUpdate.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeType.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Food.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.FoodType.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.MainMenu.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Order.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.reserve.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Table.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\Desktop\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.pdb
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\stdole.dll
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CopyComplete
+C:\Users\Arthit LungYa\Documents\C#\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe.config
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.pdb
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\bin\Debug\stdole.dll
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.customer.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Employee.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeStatusUpdate.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeType.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Food.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.FoodType.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.MainMenu.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Order.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Table.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.exe
+C:\Users\Lenovo\Downloads\Projectร้านอาหาร\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.pdb
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe.config
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.exe
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\Projectร้านอาหาร.pdb
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\bin\Debug\stdole.dll
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.AssemblyReference.cache
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.customer.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Employee.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeStatusUpdate.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.EmployeeType.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Food.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.FoodType.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.MainMenu.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Order.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Table.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.Properties.Resources.resources
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.GenerateResource.cache
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CoreCompileInputs.cache
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.csproj.CopyComplete
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.exe
+C:\Users\Arthit LungYa\Documents\Project ร้านอาหาร Final\Projectร้านอาหาร\obj\Debug\Projectร้านอาหาร.pdb
