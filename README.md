@@ -21,3 +21,6 @@ My Group Work With My Friends.
 
 ### <ins> Employee Type </ins> 
 <img src="image/EmployeeType.png" alt="tailwind" width="760" height="500" align="center"/>
+
+### <ins> Update Order </ins> 
+<img src="image/updateOrder.png" alt="tailwind" width="760" height="500" align="center"/>
