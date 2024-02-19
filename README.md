@@ -3,7 +3,7 @@ Mini Project : C# Database System
 My Group Work With My Friends.
 * Arthit LungYa
 * Raming Chaloemsuk
-* Natthadanai Wongsa
+* Natdanai Wongsa
 ### <ins> Order </ins> 
 <img src="image/Order.png" alt="tailwind" width="760" height="500" align="center"/>
 
